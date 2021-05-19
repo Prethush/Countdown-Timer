@@ -1,0 +1,26 @@
+
+.countdown-container {
+    display: flex;
+    // background-color: yellow;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-items: center;
+    .countdown-el {
+        text-align: center;
+        span {
+            font-size: 2rem;
+        }
+    }
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+
+.big-text {
+    font-size: 6rem;
+     margin: 0 2rem;
+    // background-color: red;
+    
+}
